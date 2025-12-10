@@ -50,7 +50,7 @@
 | Project Name & Role | Description & Tech Stack | Link |
 | :--- | :--- | :---: |
 | **Core Banking Simulation**<br>*(1인 개발)* | • **금융 원장 시스템 구현:** 이중 기장(Double-Entry) 및 멱등성 보장<br>• **Stack:** Java, Spring Boot, PostgreSQL | [👉 Repo](https://github.com/rutczzo/corebank) |
-| **AWS UEBA Pipeline**<br>*(Backend Lead)* | • **보안 관제 시스템:** CloudTrail 로그 분석 및 실시간 이상 탐지<br>• **Stack:** Python, AWS(Lambda, EventBridge), Terraform | [👉 Repo](https://github.com/rutczzo/Capstone-2025-team-47) |
+| **AWS UEBA Pipeline**<br>*(Infra & Backend)* | • **보안 관제 시스템:** CloudTrail 로그 분석 및 실시간 이상 탐지<br>• **Stack:** Python, AWS(Lambda, EventBridge), Terraform | [👉 Repo](https://github.com/rutczzo/Capstone-2025-team-47) |
 | **Foreign Worker Chatbot**<br>*(Backend Lead)* | • **법률 지원 챗봇:** 백엔드 아키텍처 설계 및 협업 환경 구축<br>• **Stack:** Spring Boot, Gradle, MySQL | [👉 Repo](https://github.com/hackathon2025-nodong/backend) |
 
 <br>
