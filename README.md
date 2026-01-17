@@ -2,12 +2,6 @@
 
   ## 👋 Hello, I'm Yeojun Sim
 
-  **Backend Engineer**
-  <br> 
-  > "금융 트랜잭션의 정합성에 집중하는 엔지니어입니다."
-
-  <br>
-
   <!-- 🟢 포트폴리오 (클릭 시 이동) -->
   <a href="https://www.notion.so/2c56fc0f2c5880cb81eef8e887b1fe07" target="_blank">
     <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
