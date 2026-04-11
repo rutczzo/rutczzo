@@ -3,7 +3,7 @@
   ## 👋 Hello, I'm Yeojun Sim
 
   <!-- 🟢 포트폴리오 (클릭 시 이동) -->
-  <a href="https://www.notion.so/2c56fc0f2c5880cb81eef8e887b1fe07" target="_blank">
+  <a href="[https://www.notion.so/2c56fc0f2c5880cb81eef8e887b1fe07](https://whimsical-snowflake-02c.notion.site/Sim-YeoJun-1176fc0f2c5882d6a6e7816d4d22d4f5?source=copy_link)" target="_blank">
     <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 
